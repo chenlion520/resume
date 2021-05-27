@@ -1,0 +1,27 @@
+﻿  change.c
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\change.c(4,42): warning C4028: 型式參數 2 與來自宣告的不同
+  change_card1.c
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\change_card1.c(4,44): warning C4028: 型式參數 2 與來自宣告的不同
+  change_card2.c
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\change_card2.c(4,43): warning C4028: 型式參數 2 與來自宣告的不同
+  deal.c
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\deal.c(4,23): warning C4028: 型式參數 1 與來自宣告的不同
+  deal2.c
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\deal2.c(4,24): warning C4028: 型式參數 1 與來自宣告的不同
+  fillDeck.c
+  main.c
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(28,18): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(66,31): warning C4047: '函式': 'int *' 與 'int [4][3]' 間接取值的層級不同
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(66,25): warning C4024: 'change_card1': 型式和實質參數 2 不同的類型
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(88,31): warning C4047: '函式': 'int *' 與 'int [4][3]' 間接取值的層級不同
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(88,25): warning C4024: 'change_card2': 型式和實質參數 2 不同的類型
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(113,29): warning C4047: '函式': 'int *' 與 'int [4][3]' 間接取值的層級不同
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(113,23): warning C4024: 'change_card': 型式和實質參數 2 不同的類型
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(16,6): warning C4101: 'maxf': 未參考的區域變數
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(16,12): warning C4101: 'maxm': 未參考的區域變數
+  shuffle.c
+  sort.c
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\sort.c(1,9): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+  正在產生程式碼...
+C:\Users\user\Desktop\0409_2.2\0409_2.2\0409_2.2\main.c(328): warning C4715: 'sort1': 不是所有控制路徑都傳回值
+  0409_2.2.vcxproj -> C:\Users\user\Desktop\0409_2.2\0409_2.2\Debug\0409_2.2.exe
