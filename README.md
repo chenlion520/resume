@@ -56,6 +56,7 @@
   - 紅不讓 
     - 當甲對乙、丙、丁均是全勝時，甲贏各家１２墩，也就是說，紅不讓可以讓甲獲得３６墩。 
 # 遊戲示範
-
+ - 開始
+  <img src="https://github.com/chenlion520/resume/blob/main/photo/2_menu.PNG" width="500">
 
   
