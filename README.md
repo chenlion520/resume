@@ -63,5 +63,7 @@
   <img src="https://github.com/chenlion520/resume/blob/main/photo/3_start1.PNG" width="500">
   - 我可以看到程式第一步叫我要選擇多少人的遊戲，這邊示範兩人遊玩
   <img src ="https://github.com/chenlion520/resume/blob/main/photo/4_start2.PNG" width="500">
-
+  - 程式會先展示出第一名玩家的手牌並且請玩家選擇要換的牌的編號(三張)
+  <img src ="https://github.com/chenlion520/resume/blob/main/photo/4_start2.PNG" width="500">
+  
   
