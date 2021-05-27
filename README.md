@@ -57,13 +57,19 @@
     - 當甲對乙、丙、丁均是全勝時，甲贏各家１２墩，也就是說，紅不讓可以讓甲獲得３６墩。 
 # 遊戲示範
  - 開始
-  <img src="https://github.com/chenlion520/resume/blob/main/photo/2_menu.PNG" width="500">
-  - 按下運行後，可以選擇是否要結束遊戲或開始
-  - 這邊繼續遊玩
-  <img src="https://github.com/chenlion520/resume/blob/main/photo/3_start1.PNG" width="500">
+  <img src="https://github.com/chenlion520/resume/blob/main/photo/2_menu.PNG" width="300">
+  - 按下運行後，可以選擇是否要結束遊戲或開始，選擇繼續遊玩
+  <img src="https://github.com/chenlion520/resume/blob/main/photo/3_start1.PNG" width="300">
   - 我可以看到程式第一步叫我要選擇多少人的遊戲，這邊示範兩人遊玩
-  <img src ="https://github.com/chenlion520/resume/blob/main/photo/4_start2.PNG" width="500">
+  <img src ="https://github.com/chenlion520/resume/blob/main/photo/4_start2.PNG" width="300">
   - 程式會先展示出第一名玩家的手牌並且請玩家選擇要換的牌的編號(三張)
-  <img src ="https://github.com/chenlion520/resume/blob/main/photo/4_start2.PNG" width="500">
-  
-  
+  <img src ="https://github.com/chenlion520/resume/blob/main/photo/4_start2.PNG" width="300">
+  - 這邊可以看到玩家一和玩家二的手牌前三張做對調
+  <img src= "https://github.com/chenlion520/resume/blob/main/photo/5_start3.PNG" width = "300">
+  - 大家換完牌之後會進入選前中後敦的畫面
+  <img src = "https://github.com/chenlion520/resume/blob/main/photo/6_start4.PNG" width = "300">
+  <img src = "https://github.com/chenlion520/resume/blob/main/photo/7_start5.PNG" width = "300">
+  <img src = "https://github.com/chenlion520/resume/blob/main/photo/8_start6.PNG" width = "300">
+  - 最後程式會顯示出玩家1的前中後敦與玩家2的前中後敦
+  <img src = "https://github.com/chenlion520/resume/blob/main/photo/9_start7.PNG" width = "300">
+  - 分數計算的部分我沒有繼續寫，原因是我想讓玩家可以自行設計計分，有更多不一樣的玩法
