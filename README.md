@@ -58,5 +58,10 @@
 # 遊戲示範
  - 開始
   <img src="https://github.com/chenlion520/resume/blob/main/photo/2_menu.PNG" width="500">
+  - 按下運行後，可以選擇是否要結束遊戲或開始
+  - 這邊繼續遊玩
+  <img src="https://github.com/chenlion520/resume/blob/main/photo/3_start1.PNG" width="500">
+  - 我可以看到程式第一步叫我要選擇多少人的遊戲，這邊示範兩人遊玩
+  <img src ="https://github.com/chenlion520/resume/blob/main/photo/4_start2.PNG" width="500">
 
   
